@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 come isto tudo caralho!!!!!!
+=======
+come isto tudo ca
+diogo lindo!
+>>>>>>> 03fd98f6279046d205648a3203e044dee6934174
